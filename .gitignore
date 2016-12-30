@@ -38,3 +38,22 @@ captures/
 
 # Keystore files
 *.jks
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+app/
+build.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+lib/libs/
+lib/src/main/res/drawable/
+settings.gradle
+libs/
+src/main/res/drawable/
